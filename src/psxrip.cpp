@@ -19,7 +19,7 @@
 //
 
 #include <stdint.h>
-
+#include <cstring>
 #include <cdio/cdio.h>
 #include <cdio/cd_types.h>
 #include <cdio/iso9660.h>
